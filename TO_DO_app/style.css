@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #583964;
+  color: beige;
+  font-family: "Gill Sans Extrabold", sans-serif;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100vh;
+}
+
+.container {
+  background-color: #29292c;
+  padding: 40px;
+  border-radius: 20px;
+  width: 300px;
+  box-shadow: 0 5px 25px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+
+input [type="text"] {
+  
+}
